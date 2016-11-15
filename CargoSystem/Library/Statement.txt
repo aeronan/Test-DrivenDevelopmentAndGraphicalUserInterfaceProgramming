@@ -1,0 +1,28 @@
+ZHAO ZHEN TANG (09262555)
+YUN JUNG AN (08667501)
+Contribution
+Task 1 Part 1&2 Coding -ZHAO ZHEN TANG supported by YUN JUNG AN 
+Task 1 Part 1&2 Testing -YUN JUNG AN  supported by ZHAO ZHEN TANG
+
+Task 1 Part 3 Coding -YUN JUNG AN  supported by ZHAO ZHEN TANG
+Task 1 Part 3 Testing -ZHAO ZHEN TANG supported by YUN JUNG AN 
+
+Task 2 TextManifest Coding -ZHAO ZHEN TANG supported by YUN JUNG AN
+Task 2 GUIManifest  Coding -ZHAO ZHEN TANG supported by YUN JUNG AN
+Task 2 GUIManifest  Testing -YUN JUNG AN  supported by ZHAO ZHEN TANG
+
+I, Zhao Zhen Tang confirm that statement contribution above is True.
+I, YUN JUNG AN confirm that statement contribution above is True.
+
+
+Statement of Completion
+asgn2GUI.ContainerLoadDialog - pnlCard component alignment problem
+
+We had already throw ManifestException for negative Stack, maxHeight and 
+
+maxWeight, but cannot be detect in CargoFrameTest.
+
+We have attempt graphics version of the GUI
+
+We have used automated test(CargoFrameTest) and manual GUI test to test 
+out GUI.  
